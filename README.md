@@ -1,3 +1,3 @@
 # bigRedRocketship
 
-Type some random text
+text
