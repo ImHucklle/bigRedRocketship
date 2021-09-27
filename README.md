@@ -1,3 +1,3 @@
 # bigRedRocketship
 
-text
+Added four arrays with each of their unique elements,

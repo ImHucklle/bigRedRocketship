@@ -8,8 +8,8 @@ let userDestinations = prompt("Choose a number between 0 and 3")
 
 //function getDestination(userDestinations)
     
-   for(let i = 0; i < destinations.length; i++){
-       if (userDestinations[i] === 'Cleveland') {
+   for(let index = 0; index < destinations.length; index++){
+       if (userDestinations[index] === 0) {
            console.log('You will be traveling to Cleveland')
        }
    } 
